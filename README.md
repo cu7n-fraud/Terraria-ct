@@ -1,4 +1,5 @@
 # Terraria 1.4.4.9 Cheat Table for Cheat Engine
+[New Stuff for the CT](https://github.com/cu7n-fraud/Terraria-ct/releases/tag/Terraria)
 
 This is a Cheat Table (.CT) for **Terraria 1.4.4.9** designed to give you various cheats and tools while playing. It includes features like **Infinite Health**, **Infinite Mana**, **One-Hit Kill**, **Item Spawner**, and more. This cheat table allows you to easily manipulate game variables and improve your gameplay experience.
 
