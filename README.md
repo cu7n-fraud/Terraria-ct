@@ -96,7 +96,7 @@ This is a Cheat Table (.CT) for **Terraria 1.4.4.9** designed to give you variou
 
 ## Credits
 
-- **ctv**
+- **ctvs**
 - https://guns.lol/ctvs
 
 ---
