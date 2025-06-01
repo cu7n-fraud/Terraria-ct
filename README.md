@@ -22,7 +22,7 @@ This is a Cheat Table (.CT) for **Terraria 1.4.4.9** designed to give you variou
 ## Requirements
 
 - **Terraria 1.4.4.9** (32-bit version)
-- **Cheat Engine** (download from [https://cheatengine.org/downloads/](https://cheatengine.org/downloads/))
+- **Cheat Engine** (download from [https://cheatengine.org/downloads/](https://cheatengine.org/))
 - Windows or Linux (with Wine)
 
 ---
@@ -30,7 +30,7 @@ This is a Cheat Table (.CT) for **Terraria 1.4.4.9** designed to give you variou
 ## How to Use the Cheat Table
 
 ### 1. Download and Install Cheat Engine
-   - Download **Cheat Engine** from [here](https://cheatengine.org/downloads/).
+   - Download **Cheat Engine** from [here](https://cheatengine.org/).
    - Install it following the standard setup procedure.
 
 ### 2. Launch Terraria
@@ -97,7 +97,7 @@ This is a Cheat Table (.CT) for **Terraria 1.4.4.9** designed to give you variou
 ## Credits
 
 - **ctvs**
-- https://guns.lol/ctvs
+- https://loved.pages.dev
 
 ---
 
@@ -115,6 +115,6 @@ This cheat table is provided for personal use and educational purposes. Redistri
 
 ---
 
-## guns.lol
+## My page
 
- [guns.lol](https://guns.lol/ctvs)
+ [zSec](https://zsec.pages.dev)
